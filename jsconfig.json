@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
+
+
+//sinalizando que a base seja daqui (a raiz do projeto) para frente.
