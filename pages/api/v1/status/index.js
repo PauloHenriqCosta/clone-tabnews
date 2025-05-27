@@ -2,6 +2,9 @@ import database from "infra/database.js";
 
 async function status(request, response) {
   const updatedAt = new Date().toISOString();
+
+  await database.query("SHOW server_version;");
+
   const databaseVersionResult = await database.query("SHOW server_version;"); //consulta ao bd version está no contexto do postgress
 
   const databaseMaxConnectionsResult = await database.query(
