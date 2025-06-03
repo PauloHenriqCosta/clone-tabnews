@@ -1,0 +1,1 @@
+Teste para ver se a vercel vai subir staging depois de adicionar um arquivo aqui.
