@@ -1,3 +1,6 @@
-CLASSIFICAÇÃO VOCAL ATUAL
+CLASSIFICAÇÃO VOCAL 
 
-classificação: baritono
+inicial: barítono
+seguinte: baixo
+seguinte: barítono
+atual (e adequada): tenor
